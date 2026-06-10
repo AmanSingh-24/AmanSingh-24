@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanSingh007coder&label=Profile%20Views&color=7B00FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AmanSingh007coder?label=Followers&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/stars/AmanSingh007coder?label=Stars&style=for-the-badge&color=7B00FF" />
+  <img src="https://komarev.com/ghpvc/?username=AmanSingh-24&label=Profile%20Views&color=7B00FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AmanSingh-24?label=Followers&style=for-the-badge&color=00F7FF" />
+  <img src="https://img.shields.io/github/stars/AmanSingh-24?label=Stars&style=for-the-badge&color=7B00FF" />
 </p>
 
 <div align="center">
@@ -143,7 +143,7 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AmanSingh007coder&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=AmanSingh-24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 
 <br/><br/>
 
@@ -169,17 +169,17 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanSingh007coder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanSingh-24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=7B00FF&currStreakLabel=00F7FF" />
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSingh007coder&bg_color=0D1117&color=00F7FF&line=7B00FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmanSingh-24&bg_color=0D1117&color=00F7FF&line=7B00FF&point=FFFFFF&area=true&hide_border=true" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh007coder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AmanSingh007coder&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanSingh-24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=AmanSingh-24&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
 </div>
 
