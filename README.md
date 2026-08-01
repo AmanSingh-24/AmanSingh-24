@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=180&section=header&text=Aman%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ISE+Undergrad+%7C+Full-Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;AI+%26+Sustainability+Tech+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ISE+Undergrad 2028+%7C+Full-Stack+Developer;DSA+in+CPP+%7C+Problem+Solver;Tech+Builder;Devops+Enthusiast" />
 </h3>
 
 <!-- ===================== STAT CARDS (4) ===================== -->
@@ -29,7 +29,7 @@
 <tr>
 <td>
 
-&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;**aman@devbox** — `zsh` — 80×24
+&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;
 
 </td>
 </tr>
@@ -48,7 +48,6 @@ role: Full-Stack MERN Developer
 interests:
   - Web Development
   - Artificial Intelligence
-  - Data Science
   - Sustainability Tech
   - Blockchain Technology
 philosophy: "Learning by building, failing fast, iterating faster"
@@ -63,11 +62,6 @@ $ cat what_i_do.md
 - 🌱 Creating **Sustainability-focused** tech solutions
 - 🏆 Competing in **Hackathons** and solving real-world problems
 - 💡 Blending **Web Dev + AI + Blockchain** for innovative solutions
-
-```bash
-$ _
-```
-
 </td>
 </tr>
 </table>
@@ -158,7 +152,7 @@ $ _
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
-<td><a href="https://stone-paper-scissors-drab.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-FF6B6B?style=for-the-badge"/></a></td>
+<td><a href="https://stone-paper-scissors-drab.vercel.app/"><img src="https://img.shields.io/badge/_Live_Demo-FF6B6B?style=for-the-badge"/></a></td>
 </tr>
 
 <tr>
