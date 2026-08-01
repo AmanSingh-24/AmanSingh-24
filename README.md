@@ -5,10 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ISE+Undergrad+%7C+Full-Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;AI+%26+Sustainability+Tech+Builder" />
 </h3>
 
+<!-- ===================== STAT CARDS (4) ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanSingh-24&label=Profile%20Views&color=7B00FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/AmanSingh-24?label=Followers&style=for-the-badge&color=00F7FF" />
-  <img src="https://img.shields.io/github/stars/AmanSingh-24?label=Stars&style=for-the-badge&color=7B00FF" />
+  <img src="https://komarev.com/ghpvc/?username=AmanSingh-24&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/AmanSingh-24?label=Followers&style=for-the-badge&color=7B00FF" />
+  <img src="https://img.shields.io/badge/Total_Forks-3-FF6B6B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=4ECDC4&label=Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AAmanSingh-24&style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <div align="center">
@@ -22,6 +24,21 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Who Am I?
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<table>
+<tr>
+<td>
+
+&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;**aman@devbox** — `zsh` — 80×24
+
+</td>
+</tr>
+<tr>
+<td>
+
+```bash
+$ whoami
+```
 
 ```yaml
 name: Aman Kumar Singh
@@ -37,14 +54,23 @@ interests:
 philosophy: "Learning by building, failing fast, iterating faster"
 ```
 
-<br/>
+```bash
+$ cat what_i_do.md
+```
 
-🎯 **What I Do:**
 - 🌐 Building scalable web applications with **MERN Stack**
 - 🤖 Exploring **AI & Machine Learning** projects
 - 🌱 Creating **Sustainability-focused** tech solutions
 - 🏆 Competing in **Hackathons** and solving real-world problems
 - 💡 Blending **Web Dev + AI + Blockchain** for innovative solutions
+
+```bash
+$ _
+```
+
+</td>
+</tr>
+</table>
 
 <br clear="both"/>
 
@@ -118,16 +144,129 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <div align="center">
 
-| 🚀 Project | 🛠 Tech Stack | 🌐 Links |
-|:---:|:---:|:---:|
-| **Stone Paper Scissors** | HTML • CSS • JavaScript | [🔥 Live Demo](https://stone-paper-scissors-drab.vercel.app/) |
-| **Tic Tac Toe** | HTML • CSS • JavaScript | [🔥 Live Demo](https://tic-tac-toe-alpha-tawny-74.vercel.app/) |
-| **Stopwatch** | React • Tailwind CSS | [🔥 Live Demo](https://stop-watch-one-pi.vercel.app/) |
-| **To-Do List** | React • Tailwind CSS | [🔥 Live Demo](https://to-do-list-app-five-jet.vercel.app/) |
-| **BizSite** | HTML • CSS • JavaScript | [🔥 Live Demo](https://bizsite-snowy.vercel.app/) |
-| **Portfolio Website** | React • Tailwind CSS | [🔥 Live Demo](https://aman-singhdev.vercel.app/) |
+<table>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Live</th>
+</tr>
+
+<tr>
+<td>🪨 <b>Stone Paper Scissors</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td><a href="https://stone-paper-scissors-drab.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-FF6B6B?style=for-the-badge"/></a></td>
+</tr>
+
+<tr>
+<td>⭕ <b>Tic Tac Toe</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td><a href="https://tic-tac-toe-alpha-tawny-74.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-4ECDC4?style=for-the-badge"/></a></td>
+</tr>
+
+<tr>
+<td>⏱️ <b>Stopwatch</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</td>
+<td><a href="https://stop-watch-one-pi.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-FFD93D?style=for-the-badge&logoColor=black"/></a></td>
+</tr>
+
+<tr>
+<td>✅ <b>To-Do List</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</td>
+<td><a href="https://to-do-list-app-five-jet.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-6BCB77?style=for-the-badge"/></a></td>
+</tr>
+
+<tr>
+<td>🏢 <b>BizSite</b></td>
+<td>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</td>
+<td><a href="https://bizsite-snowy.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-A66CFF?style=for-the-badge"/></a></td>
+</tr>
+
+<tr>
+<td>🌐 <b>Portfolio Website</b></td>
+<td>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</td>
+<td><a href="https://aman-singhdev.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-00F7FF?style=for-the-badge&logoColor=black"/></a></td>
+</tr>
+
+</table>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+---
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Experience
+
+<table>
+<tr>
+<td width="40" align="center">🟢</td>
+<td>
+
+**Backend AI Engineering Intern** · FlyRank AI *(Internship)*
+`Jun 2026 – Present · 3 mos` · 📍 Bengaluru, Karnataka, India · Remote
+
+Currently interning at FlyRank AI as an AI intern, focusing on Backend AI Engineering.
+
+</td>
+</tr>
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
+<tr>
+<td width="40" align="center">🟣</td>
+<td>
+
+**Technical Team Member** · Genesis
+`Sep 2025 – Present · 1 yr` · 📍 Bengaluru, Karnataka, India
+
+Engineered and maintained hackathon websites with multiple merged PRs, supporting live event infrastructure and deployments.
+
+</td>
+</tr>
+<tr>
+<td align="center">┃</td>
+<td></td>
+</tr>
+<tr>
+<td width="40" align="center">🔵</td>
+<td>
+
+**Full Stack Developer Intern** · Grep Digital *(Internship)*
+`Oct 2025 – Mar 2026 · 6 mos` · 📍 Bengaluru, Karnataka, India · Remote
+
+Designed and built the SQL data pipeline connecting the backend service layer to the product's AI model, enabling structured data flow and real-time inference.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -147,11 +286,25 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <br/><br/>
 
-| 🎯 Achievement | 📝 Details |
-|:---|:---|
-| 🥇 **Cash Prize Winner** | MakerBlitz Hardware Hackathon |
-| 🚀 **SIH Qualifier** | Selected for Smart India Hackathon Internal Round |
-| 👨‍💻 **Tech Team Member** | Genesis Club - DSCE |
+<table>
+<tr>
+<td align="center" width="33%">
+
+🥇<br/><b>Cash Prize Winner</b><br/><sub>MakerBlitz Hardware Hackathon</sub>
+
+</td>
+<td align="center" width="33%">
+
+🚀<br/><b>SIH Qualifier</b><br/><sub>Selected for Smart India Hackathon Internal Round</sub>
+
+</td>
+<td align="center" width="33%">
+
+👨‍💻<br/><b>Tech Team Member</b><br/><sub>Genesis Club – DSCE</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -170,7 +323,7 @@ philosophy: "Learning by building, failing fast, iterating faster"
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanSingh-24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh007coder&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=7B00FF&currStreakLabel=00F7FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh-24&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=7B00FF&currStreakLabel=00F7FF" />
 
 <br/><br/>
 
@@ -204,6 +357,9 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <div align="center">
 
+<a href="https://github.com/AmanSingh-24">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/aman-kumar-singh-be/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -216,7 +372,25 @@ philosophy: "Learning by building, failing fast, iterating faster"
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+---
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-15d6f2d9-0a57-44c0-825e-5ff71e77f6a8.png" width="30" /> Dev Quote
+
+<div align="center">
+
+<h3><i>"Keep learning, Keep coding — success is just a push to GitHub away."</i></h3>
 
 </div>
 
