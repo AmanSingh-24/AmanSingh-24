@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B00FF&height=180&section=header&text=Aman%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ISE+Undergrad 2028+%7C+Full-Stack+Developer;DSA+in+CPP+%7C+Problem+Solver;Tech+Builder;Devops+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ISE+Undergrad+%7C+Full-Stack+Developer;DSA+Enthusiast+%7C+Problem+Solver;AI+%26+Sustainability+Tech+Builder" />
 </h3>
 
 <!-- ===================== STAT CARDS (4) ===================== -->
@@ -29,7 +29,7 @@
 <tr>
 <td>
 
-&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;🔴&nbsp;&nbsp;🟡&nbsp;&nbsp;🟢&nbsp;&nbsp;&nbsp;**aman@devbox** — `zsh` — 80×24
 
 </td>
 </tr>
@@ -48,6 +48,7 @@ role: Full-Stack MERN Developer
 interests:
   - Web Development
   - Artificial Intelligence
+  - Data Science
   - Sustainability Tech
   - Blockchain Technology
 philosophy: "Learning by building, failing fast, iterating faster"
@@ -62,6 +63,11 @@ $ cat what_i_do.md
 - 🌱 Creating **Sustainability-focused** tech solutions
 - 🏆 Competing in **Hackathons** and solving real-world problems
 - 💡 Blending **Web Dev + AI + Blockchain** for innovative solutions
+
+```bash
+$ _
+```
+
 </td>
 </tr>
 </table>
@@ -152,7 +158,7 @@ $ cat what_i_do.md
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
-<td><a href="https://stone-paper-scissors-drab.vercel.app/"><img src="https://img.shields.io/badge/_Live_Demo-FF6B6B?style=for-the-badge"/></a></td>
+<td><a href="https://stone-paper-scissors-drab.vercel.app/"><img src="https://img.shields.io/badge/🔥_Live_Demo-FF6B6B?style=for-the-badge"/></a></td>
 </tr>
 
 <tr>
@@ -317,7 +323,7 @@ Designed and built the SQL data pipeline connecting the backend service layer to
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmanSingh-24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanSingh-24&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=7B00FF&currStreakLabel=00F7FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=AmanSingh-24&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=7B00FF&currStreakLabel=00F7FF" />
 
 <br/><br/>
 
@@ -391,7 +397,7 @@ Designed and built the SQL data pipeline connecting the backend service layer to
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+%E2%80%A2+Learning+%E2%80%A2+Iterating+%E2%80%A2+Impacting+%E2%9A%A1;Thanks+for+visiting!+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%E2%9A%A1+Building+%E2%80%A2+Learning+%E2%80%A2+Iterating+%E2%80%A2+Impacting+%E2%9A%A1;Thanks+for+visiting!+%F0%9F%91%8B" />
 </div>
 
 <br/>
