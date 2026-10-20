@@ -13,7 +13,7 @@ from xml.sax.saxutils import escape
 
 USER = os.environ.get("GH_USER", "AmanSingh-24")
 TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
-OUT = os.environ.get("OUT", "assets/pr-stats.svg")
+OUT = os.environ.get("OUT", "pr-stats.svg")
 PALETTE = ["#00F7FF", "#7B00FF", "#FF6B6B", "#4ECDC4", "#FFD93D", "#A66CFF", "#6BCB77", "#FF9F43"]
 
 
