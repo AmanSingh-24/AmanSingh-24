@@ -316,7 +316,7 @@ Designed and built the SQL data pipeline connecting the backend service layer to
 
 <div align="center">
 
-<img src="./assets/pr-stats.svg" alt="Pull request activity by organization" width="98%" />
+<img src="./pr-stats.svg" alt="Pull request activity by organization" width="98%" />
 
 </div>
 
